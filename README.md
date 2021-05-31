@@ -1,3 +1,5 @@
+Demo: my-receipt-book.web.app
+
 # new-vuetify
 
 > A Vue.js project
