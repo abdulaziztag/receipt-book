@@ -1,4 +1,4 @@
- ## [Demo](https://www.my-receipt-book.web.app)
+ ## [Demo](https://my-receipt-book.web.app)
 
 # new-vuetify
 
